@@ -10,6 +10,5 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmsb02)](https://github.com/jmsb02/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmsb02)](https://solved.ac/jmsb02/)
 
