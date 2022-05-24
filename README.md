@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=zae min%20render&fontSize=50)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer)
  <div align=center>
 
 📖Studying~📖
@@ -9,4 +9,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmsb02)](https://solved.ac/jmsb02/)
+ 
+<img src="http://mazandi.herokuapp.com/api?handle={jmsb02}&theme=warm"/> 
 </div>
