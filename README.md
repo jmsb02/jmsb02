@@ -1,10 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=capsule%20render&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=zae min%20render&fontSize=50)
  <div align=center>
-🛠Tools🛠
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 📖Studying~📖
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
